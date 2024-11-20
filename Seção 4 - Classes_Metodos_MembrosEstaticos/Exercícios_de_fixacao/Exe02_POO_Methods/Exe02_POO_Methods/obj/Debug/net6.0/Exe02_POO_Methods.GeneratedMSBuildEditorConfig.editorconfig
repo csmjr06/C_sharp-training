@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Exe02_POO_Methods
+build_property.ProjectDir = H:\Maia\Cursos\C#\projects\Projeto2024\Seção 4 - Classes_Metodos_MembrosEstaticos\Exercícios_de_fixacao\Exe02_POO_Methods\Exe02_POO_Methods\

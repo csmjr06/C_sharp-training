@@ -1,0 +1,15 @@
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\bin\Debug\net6.0\Recap_Exe02.exe
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\bin\Debug\net6.0\Recap_Exe02.deps.json
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\bin\Debug\net6.0\Recap_Exe02.runtimeconfig.json
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\bin\Debug\net6.0\Recap_Exe02.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\bin\Debug\net6.0\Recap_Exe02.pdb
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\Recap_Exe02.csproj.AssemblyReference.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\Recap_Exe02.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\Recap_Exe02.AssemblyInfoInputs.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\Recap_Exe02.AssemblyInfo.cs
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\Recap_Exe02.csproj.CoreCompileInputs.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\Recap_Exe02.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\refint\Recap_Exe02.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\Recap_Exe02.pdb
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\Recap_Exe02.genruntimeconfig.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_Exe02\Recap_Exe02\obj\Debug\net6.0\ref\Recap_Exe02.dll

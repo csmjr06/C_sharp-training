@@ -1,0 +1,15 @@
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\Recap_exe_4.2_for.csproj.AssemblyReference.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\Recap_exe_4.2_for.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\Recap_exe_4.2_for.AssemblyInfoInputs.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\Recap_exe_4.2_for.AssemblyInfo.cs
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\Recap_exe_4.2_for.csproj.CoreCompileInputs.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\bin\Debug\net6.0\Recap_exe_4.2_for.exe
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\bin\Debug\net6.0\Recap_exe_4.2_for.deps.json
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\bin\Debug\net6.0\Recap_exe_4.2_for.runtimeconfig.json
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\bin\Debug\net6.0\Recap_exe_4.2_for.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\bin\Debug\net6.0\Recap_exe_4.2_for.pdb
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\Recap_exe_4.2_for.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\refint\Recap_exe_4.2_for.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\Recap_exe_4.2_for.pdb
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\Recap_exe_4.2_for.genruntimeconfig.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_exe_4.2_for\Recap_exe_4.2_for\obj\Debug\net6.0\ref\Recap_exe_4.2_for.dll

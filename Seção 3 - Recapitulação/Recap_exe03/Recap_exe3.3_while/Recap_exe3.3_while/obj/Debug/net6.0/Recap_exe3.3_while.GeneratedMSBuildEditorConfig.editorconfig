@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Recap_exe3._3_while
+build_property.ProjectDir = H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\

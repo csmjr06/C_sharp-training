@@ -1,0 +1,15 @@
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\bin\Debug\net6.0\Recap_exe3.3_while.exe
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\bin\Debug\net6.0\Recap_exe3.3_while.deps.json
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\bin\Debug\net6.0\Recap_exe3.3_while.runtimeconfig.json
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\bin\Debug\net6.0\Recap_exe3.3_while.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\bin\Debug\net6.0\Recap_exe3.3_while.pdb
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\Recap_exe3.3_while.csproj.AssemblyReference.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\Recap_exe3.3_while.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\Recap_exe3.3_while.AssemblyInfoInputs.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\Recap_exe3.3_while.AssemblyInfo.cs
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\Recap_exe3.3_while.csproj.CoreCompileInputs.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\Recap_exe3.3_while.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\refint\Recap_exe3.3_while.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\Recap_exe3.3_while.pdb
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\Recap_exe3.3_while.genruntimeconfig.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe3_while\Recap_exe3.3_while\Recap_exe3.3_while\obj\Debug\net6.0\ref\Recap_exe3.3_while.dll

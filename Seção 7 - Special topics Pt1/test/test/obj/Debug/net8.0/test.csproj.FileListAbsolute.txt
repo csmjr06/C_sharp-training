@@ -1,0 +1,14 @@
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\bin\Debug\net8.0\test.exe
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\bin\Debug\net8.0\test.deps.json
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\bin\Debug\net8.0\test.runtimeconfig.json
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\bin\Debug\net8.0\test.dll
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\bin\Debug\net8.0\test.pdb
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\test.GeneratedMSBuildEditorConfig.editorconfig
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\test.AssemblyInfoInputs.cache
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\test.AssemblyInfo.cs
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\test.csproj.CoreCompileInputs.cache
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\test.dll
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\refint\test.dll
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\test.pdb
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\test.genruntimeconfig.cache
+G:\Maia\Cursos\C#\projects\Projeto2024\Seção 7 - Special topics Pt1\test\test\obj\Debug\net8.0\ref\test.dll

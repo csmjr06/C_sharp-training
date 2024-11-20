@@ -1,0 +1,15 @@
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\bin\Debug\net6.0\Recap_4.5_FOR_fatorial.exe
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\bin\Debug\net6.0\Recap_4.5_FOR_fatorial.deps.json
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\bin\Debug\net6.0\Recap_4.5_FOR_fatorial.runtimeconfig.json
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\bin\Debug\net6.0\Recap_4.5_FOR_fatorial.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\bin\Debug\net6.0\Recap_4.5_FOR_fatorial.pdb
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\Recap_4.5_FOR_fatorial.csproj.AssemblyReference.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\Recap_4.5_FOR_fatorial.GeneratedMSBuildEditorConfig.editorconfig
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\Recap_4.5_FOR_fatorial.AssemblyInfoInputs.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\Recap_4.5_FOR_fatorial.AssemblyInfo.cs
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\Recap_4.5_FOR_fatorial.csproj.CoreCompileInputs.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\Recap_4.5_FOR_fatorial.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\refint\Recap_4.5_FOR_fatorial.dll
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\Recap_4.5_FOR_fatorial.pdb
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\Recap_4.5_FOR_fatorial.genruntimeconfig.cache
+H:\Maia\Cursos\C#\projects\Projeto2024\Recap_exe04\Recap_4.5_FOR_fatorial\Recap_4.5_FOR_fatorial\obj\Debug\net6.0\ref\Recap_4.5_FOR_fatorial.dll

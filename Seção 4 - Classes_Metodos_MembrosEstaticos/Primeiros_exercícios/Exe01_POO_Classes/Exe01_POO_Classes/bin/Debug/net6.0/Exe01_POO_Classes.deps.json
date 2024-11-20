@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Exe01_POO_Classes/1.0.0": {
+        "runtime": {
+          "Exe01_POO_Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exe01_POO_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Maia\\Cursos\\C#\\projects\\Projeto2024\\Se\u00E7\u00E3o 6 - Memory_array_lists\\Matrizes\\Matrix_exercicio_de_fixacao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD400898-5A43-4202-92B6-B14B9975FC91}|Matrix_exercicio_de_fixacao\\Matrix_exercicio_de_fixacao.csproj|g:\\maia\\cursos\\c#\\projects\\projeto2024\\se\u00E7\u00E3o 6 - memory_array_lists\\matrizes\\matrix_exercicio_de_fixacao\\matrix_exercicio_de_fixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD400898-5A43-4202-92B6-B14B9975FC91}|Matrix_exercicio_de_fixacao\\Matrix_exercicio_de_fixacao.csproj|solutionrelative:matrix_exercicio_de_fixacao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Maia\\Cursos\\C#\\projects\\Projeto2024\\Se\u00E7\u00E3o 6 - Memory_array_lists\\Matrizes\\Matrix_exercicio_de_fixacao\\Matrix_exercicio_de_fixacao\\Program.cs",
+              "RelativeDocumentMoniker": "Matrix_exercicio_de_fixacao\\Program.cs",
+              "ToolTip": "G:\\Maia\\Cursos\\C#\\projects\\Projeto2024\\Se\u00E7\u00E3o 6 - Memory_array_lists\\Matrizes\\Matrix_exercicio_de_fixacao\\Matrix_exercicio_de_fixacao\\Program.cs",
+              "RelativeToolTip": "Matrix_exercicio_de_fixacao\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T21:24:11.29Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
